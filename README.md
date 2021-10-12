@@ -8,6 +8,38 @@ Once you find a **`Meme`** worthy enough you can either share it or like 👍 th
 
 https://thememestudio-db48d.web.app/
 
+## Table of content
+
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#">About the Project</a>
+      <ul>
+        <li><a href="https://github.com/Sakshamkapur/lambda-be">Backend Repo</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#performance">Performance</a>
+      <ul>
+        <li><a href="#bundle-size">Bundle Size</a></li>
+       <li><a href="#lighthouse-score-for-home-page">Light House Score for Home Page</a></li>
+       <li><a href="#lighthouse-score-for-studio-page">Light House Score for Studio Page</a></li>
+      </ul>
+    </li>
+    <li><a href="#code-practices-followed">Coding Practices</a></li>
+    <li><a href="#testing">Testing</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+  </ol>
+</details>
+
 ## Installation
 
 #### NPM
