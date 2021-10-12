@@ -8,8 +8,7 @@ Once you find a **`Meme`** worthy enough you can either share it or like 👍 th
 
 https://thememestudio-db48d.web.app/
 
-## Table of content
-
+## Table of Contents
 
 <details open="open">
   <summary>Table of Contents</summary>
